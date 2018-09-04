@@ -25,3 +25,9 @@ View the screen of the instructor's machine
 View previous class recordings
 
 * <https://www.youtube.com/playlist?list=PLIWindejDy9A-bs9F30TvqGWHWyj6fHrC>
+
+## Registration Form
+
+Provide registration information here
+
+* <https://docs.google.com/spreadsheets/d/14hq3mMn5Xy4DPZQxl6G1Nb701Qjl6KV9s-n-c8ULj3Y/edit?usp=sharing>
