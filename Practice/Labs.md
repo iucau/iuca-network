@@ -1,19 +1,19 @@
 Lab Tasks
 =========
 
-You can use the AUCA server for this work through SSH at 'auca.space'. The login
+You can use the AUCA server for this work through SSH at `auca.space`. The login
 has the format `<last name>_<first letter of the first name>`.
 
 ## Lab #0, Introduction to the Development Environment
 
-1. Connect to 'auca.space'.
+1. Connect to `auca.space`.
 2. Create a directory for this course.
-3. Name the directory networks.
-4. Rename the directory to iuca-networks.
+3. Name the directory `networks`.
+4. Rename the directory to `iuca-networks`.
 5. Move into the directory.
-6. Create a Readme.txt
+6. Create a `Readme.txt`.
 7. Modify the file. Write the full name of the course and save the file.
-8. Create Lab00.java (it should be just a plain 'hello, world' program).
+8. Create `Lab00.java` (it should be just a plain 'hello, world' program).
 9. Compile the program.
 10. Run the program.
 11. Delete the class file.
@@ -56,6 +56,7 @@ input and send it to the server. The server can receive the text and repeat it b
 ### Links
 
 * [Oracle, All about Sockets in Java](https://docs.oracle.com/javase/tutorial/networking/sockets/index.html)
+* [Unix Environment](https://drive.google.com/open?id=0B85z_dQxOMgLNDN3QTFrSmYxZm8)
 
 ### Books
 
