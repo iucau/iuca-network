@@ -6,8 +6,8 @@ has the format `<last name>_<first letter of the first name>`.
 
 ## Lab #1, EchoService
 
-Create a classical 'hello, world' networking service in Java. The service consists from two programs. The client program can get user
-input and send it to the server. The server can recive the text and repeat it by sending it back.
+Create the classical 'hello, world' networking service in Java. The service consists from two programs. The client program can get user
+input and send it to the server. The server can receive the text and repeat it by sending it back.
 
 ## Lab #2, Extend the EchoService
 
