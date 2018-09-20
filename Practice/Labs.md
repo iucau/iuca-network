@@ -60,4 +60,4 @@ input and send it to the server. The server can receive the text and repeat it b
 
 ### Books
 
-* _Introduction to Java Programming, Comprehensive, 8th Edition by Y. Daniel Liang_
+* _Introduction to Java Programming, Comprehensive, 10th Edition by Y. Daniel Liang_
