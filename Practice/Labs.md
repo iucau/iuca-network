@@ -9,7 +9,7 @@ has the format `<last name>_<first letter of the first name>`.
 Create a classical 'hello, world' networking service in Java. The service consists from two programs. The client program can get user
 input and send it to the server. The server can recive the text and repeat it by sending it back.
 
-## Lab #2, Extendint the EchoService
+## Lab #2, Extend the EchoService
 
 1. Move the server to `auca.space`
    and show that you can send
