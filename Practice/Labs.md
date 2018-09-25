@@ -36,6 +36,11 @@ input and send it to the server. The server can receive the text and repeat it b
    date and time info on every connection.
 
 3. Create a duplicated project dir of the
+   `EchoService`. Name it `Chat`. Modify
+   the server and the client to send and
+   receive messages to one another.
+
+3. Create a duplicated project dir of the
    `EchoService`. Modify the server to
    accept multiple clients. Use the official
    Sockets tutorial from Oracle to do that.
