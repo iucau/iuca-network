@@ -8,6 +8,15 @@
 
 # Course Server
 
+## Connecting
+
 ```bash
 ssh -o ServerAliveInterval=5 -o ServerAliveCountMax=1 <login>@auca.space
+```
+
+## Sending Files
+
+```bash
+scp <local file> <login>@auca.space:~/
+scp -r <local dir> <login>@auca.space:~/
 ```
