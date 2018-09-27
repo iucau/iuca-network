@@ -44,7 +44,13 @@ input and send it to the server. The server can receive the text and repeat it b
    `EchoService`. Modify the server to
    accept multiple clients. Use the official
    Sockets tutorial from Oracle to do that.
-   
+
+## Lab #3, Intro to Packet Tracer
+
+1. Download Packet Tracer, create a Cisco account, and log in.
+
+2. Create a simple network from two computers. Study the Packet Tracer UI.
+
 ### Documentation for Helpfull Unix Tools
 
     man ls
