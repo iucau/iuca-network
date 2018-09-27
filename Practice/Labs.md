@@ -51,6 +51,17 @@ input and send it to the server. The server can receive the text and repeat it b
 
 2. Create a simple network from two computers. Study the Packet Tracer UI.
 
+3. Add a server. Try to connect both the machines to the server.
+
+4. Use a switch to connect all the machines together. Configure the machines
+   and use the `ping` utility to check connections on all nodes.
+
+5. Try to replace the switch with a hub. Analyze the network.
+
+6. Return back using the switch. Setup the server to assign ip addresses automatically.
+
+7. Add another network of machines. Try to connect it to the current network.
+
 ### Documentation for Helpfull Unix Tools
 
     man ls
