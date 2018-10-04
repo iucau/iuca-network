@@ -62,6 +62,19 @@ input and send it to the server. The server can receive the text and repeat it b
 
 7. Add another network of machines. Try to connect it to the current network.
 
+## Lab #4, Basic Network Services
+
+1. Create three networks.
+2. Use three private network ranges for each network.
+3. Each network must have at least 5 host devices.
+4. Each device should be configured to automatically receive a proper IP address for its network.
+5. IP assignment should be performed by the router.
+6. Add one server to the network with the largest available pool of addresses.
+7. Ensure that you can ping the server remotely.
+8. Find out the output of the `tracert` command. Explain the result.
+9. The server is accessed through an IP address. It is not very convenient for the intranet users. Allow to access it through a domain name `iuca.space`.
+10. Setup the HTTP server. Try to access the intranet site from different networks.
+
 ### Documentation for Helpfull Unix Tools
 
     man ls
