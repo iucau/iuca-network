@@ -79,6 +79,11 @@ Create the following three networks
 
 You can only use the 192.168.0.0 private net for this task.
 
+## Lab #7
+
+1. Setup the DHCP on the Cisco router from the previous network.
+2. Start using VLSM subnetting.
+
 ### Usefull links
 
 * [Private Networks](https://www.cisco.com/c/en/us/support/docs/ip/ip-multicast/13789-35.html)
