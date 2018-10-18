@@ -63,11 +63,28 @@ input and send it to the server. The server can receive the text and repeat it b
 6. Find out the output of the `tracert` command from one machine to any other on another network. Explain the result.
 7. Setup the HTTP server in one network. Try to access the intranet site from different networks.
 
+## Lab #5
+
+1. Leave only one server in 10.0.0.0 network.
+2. Disable DHCP on that server.
+3. Configure DHCP for three networks on the router from CLI.
+
+## Lab #6
+
+Create the following three networks
+
+1. Network 1: 2 machines
+2. Network 2: 5 machines
+3. Network 3: 9 machines
+
+You can only use the 192.168.0.0 private net for this task.
+
 ### Usefull links
 
 * [Private Networks](https://www.cisco.com/c/en/us/support/docs/ip/ip-multicast/13789-35.html)
 * [IOS Configuration Basics](https://www.cisco.com/c/en/us/td/docs/switches/wan/mgx/mgx_8850/software/mgx_r3/rpm/rpm_r1-1/configuration/guide/appc.html)
 * [IOS DHCP Configuration](https://www.cisco.com/c/en/us/td/docs/ios/12_2/ip/configuration/guide/fipr_c/1cfdhcp.html)
+* [Subnetting](https://www.cisco.com/c/en/us/support/docs/ip/routing-information-protocol-rip/13788-3.html)
 
 ### Documentation for Helpfull Unix Tools
 
