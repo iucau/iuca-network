@@ -1,12 +1,12 @@
 Lab Tasks
 =========
 
-You can use the AUCA server for this work through SSH at `auca.space`. The login
+You can use the IUCA server for this work through SSH at `iuca.space`. The login
 has the format `<last name>_<first letter of the first name>`.
 
 ## Lab #0, Introduction to the Development Environment
 
-1. Connect to `auca.space`.
+1. Connect to `iuca.space`.
 2. Create a directory for this course.
 3. Name the directory `networks`.
 4. Rename the directory to `iuca-networks`.
@@ -25,7 +25,7 @@ input and send it to the server. The server can receive the text and repeat it b
 
 ## Lab #2, Extend the EchoService
 
-1. Move the server to `auca.space`
+1. Move the server to `iuca.space`
    and show that you can send
    and receive messages from the
    client located on the local lab
