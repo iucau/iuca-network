@@ -86,7 +86,7 @@ You can only use the 192.168.0.0 private net for this task.
 
 ## Lab #8
 
-1. Setup two local networks with at least one machines.
+1. Setup two local networks with at least one machine.
 2. Connect the two networks with two routers.
 3. Allow the packets to pass by configuring the static routes on the Cisco router.
 
