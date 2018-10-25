@@ -11,12 +11,12 @@
 ## Connecting
 
 ```bash
-ssh -o ServerAliveInterval=5 -o ServerAliveCountMax=1 <login>@auca.space
+ssh -o ServerAliveInterval=5 -o ServerAliveCountMax=1 <login>@iuca.space
 ```
 
 ## Sending Files
 
 ```bash
-scp <local file> <login>@auca.space:~/
-scp -r <local dir> <login>@auca.space:~/
+scp <local file> <login>@iuca.space:~/
+scp -r <local dir> <login>@iuca.space:~/
 ```
