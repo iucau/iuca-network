@@ -84,12 +84,43 @@ You can only use the 192.168.0.0 private net for this task.
 1. Setup the DHCP on the Cisco router from the previous network.
 2. Start using VLSM subnetting.
 
+## Lab #8
+
+1. Setup two local networks with at least one machines.
+2. Connect the two networks with two routers.
+3. Allow the packets to pass by configuring the static routes on the Cisco router.
+
+You can use the following networks from class C.
+
+* 192.168.0.0
+* 192.168.1.0
+* 192.168.2.0
+
+## Lab #9
+
+1. Modify the network from the previous lab to contain two additional routers in-between
+   the existing two routers.
+2. Setup RIP on all routers to do dynamic configuration and routing of packets.
+
+You can use the following extra networks from class C.
+
+* 192.168.3.0
+* 192.168.4.0
+
+## Lab #10
+
+1. Modify the network from the previous lab to contain multiple routes between
+   computers with different number of hops.
+2. Analyze the routing tables of the routers and figure out the
+   pass used between the computers.
+   
 ### Usefull links
 
 * [Private Networks](https://www.cisco.com/c/en/us/support/docs/ip/ip-multicast/13789-35.html)
 * [IOS Configuration Basics](https://www.cisco.com/c/en/us/td/docs/switches/wan/mgx/mgx_8850/software/mgx_r3/rpm/rpm_r1-1/configuration/guide/appc.html)
 * [IOS DHCP Configuration](https://www.cisco.com/c/en/us/td/docs/ios/12_2/ip/configuration/guide/fipr_c/1cfdhcp.html)
-* [Subnetting](https://www.cisco.com/c/en/us/support/docs/ip/routing-information-protocol-rip/13788-3.html)
+* [Subnetting in IOS](https://www.cisco.com/c/en/us/support/docs/ip/routing-information-protocol-rip/13788-3.html)
+* [RIP configuration on IOS](https://www.cisco.com/c/en/us/td/docs/ios-xml/ios/iproute_rip/configuration/15-mt/irr-15-mt-book/irr-cfg-info-prot.html)
 
 ### Documentation for Helpfull Unix Tools
 
