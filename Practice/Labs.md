@@ -113,7 +113,13 @@ You can use the following extra networks from class C.
    computers with different number of hops.
 2. Analyze the routing tables of the routers and figure out the
    pass used between the computers.
-   
+
+## Lab #11
+
+1. Create a local network of two machines and a server. Setup DHCP on the server to configure IP addresses in 192.168.0.0/24 net.
+2. Enable the HTTP web service on the server.
+3. Allow computers to access the server through the following address `iuca.kg`.
+
 ### Usefull links
 
 * [Private Networks](https://www.cisco.com/c/en/us/support/docs/ip/ip-multicast/13789-35.html)
