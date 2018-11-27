@@ -26,8 +26,8 @@ View previous class recordings
 
 ### Group A
 
-* <https://www.youtube.com/playlist?list=PLIWindejDy9A-bs9F30TvqGWHWyj6fHrC>
+* <https://www.youtube.com/playlist?list=PLIWindejDy9AGB_Xv6KIt_s5IQ3cOht0b>
 
 ### Group B
 
-* <https://www.youtube.com/playlist?list=PLIWindejDy9AGB_Xv6KIt_s5IQ3cOht0b>
+* <https://www.youtube.com/playlist?list=PLIWindejDy9A-bs9F30TvqGWHWyj6fHrC>
