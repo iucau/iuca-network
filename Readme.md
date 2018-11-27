@@ -31,13 +31,3 @@ View previous class recordings
 ### Group B
 
 * <https://www.youtube.com/playlist?list=PLIWindejDy9AGB_Xv6KIt_s5IQ3cOht0b>
-
-## Midterm Signup Form
-
-### Group A
-
-* <https://docs.google.com/spreadsheets/d/1B8xOmdZKv1T9439ZrB8NfaI59kCM-2-dcRqoMcTHzbs>
-
-### Group B
-
-* <https://docs.google.com/spreadsheets/d/1JZlGJPDl7D7jQK09Sx0QlvYZ-O-WuRwisRMC-I5dNmo>
