@@ -37,3 +37,4 @@ View previous class recordings
 ## Final SignUp Form
 
 * <https://docs.google.com/spreadsheets/d/1rmIX0bUXg-aveY8HjDZpdvK4Xe8qRzwGsbC2fcQh8fk/edit?usp=sharing>
+* <https://docs.google.com/spreadsheets/d/1hOUzI6q4K7KciyzrC0eu_dFA1t2oSNIgvkEP1hVVy5k/edit?usp=sharing>
